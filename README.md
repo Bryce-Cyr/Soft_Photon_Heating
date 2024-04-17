@@ -2,7 +2,7 @@
 
 This Jupyter notebook allows one to study the effects of soft photon heating as described in 2024.xxxx.
 
-## Soft-Photon-Heating.ipynb
+### Soft-Photon-Heating.ipynb
 Contains the main elements necessary to investigate the response of the matter temperature (T_M), ionization fraction (X_e), and spectral distortion (\Delta n) to the injection of soft photon backgrounds.
 
 To use: modify relevant sections in the 'User Input Section' cell, and then run rest of the cells.
