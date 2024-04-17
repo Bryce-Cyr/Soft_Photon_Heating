@@ -8,7 +8,7 @@ Simply download the three files, place them in the directory of your choice, and
 ## File contents
 
 ### Soft-Photon-Heating.ipynb
-Contains the main elements necessary to investigate the response of the matter temperature (T_M), ionization fraction (X_e), and spectral distortion (\Delta n) to the injection of soft photon backgrounds.
+Contains the main elements necessary to investigate the response of the matter temperature ($T_M$), ionization fraction (X_e), and spectral distortion (\Delta n) to the injection of soft photon backgrounds.
 
 To use: modify relevant sections in the 'User Input Section' cell, and then run rest of the cells.
 Plots of T_M and X_e compare against pre-tabulated solutions from CosmoRec (vanilla LCDM).
