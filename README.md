@@ -7,11 +7,11 @@ Simply download the three files, place them in the directory of your choice, and
 ## File contents
 
 ### Soft-Photon-Heating.ipynb
-Contains the main elements necessary to investigate the response of the matter temperature ($T_M$), ionization fraction ($X_e$), and spectral distortion ($\Delta n$) to the injection of soft photon backgrounds. Regions marked "Switches" can be set in any way the user desires. Regions marked "Select one" means to just turn one of the options on at a time. 
+Contains the main elements necessary to investigate the response of the matter temperature ($T_M$), ionization fraction ($X_e$), and spectral distortion ($\Delta n$) to the injection of soft photon backgrounds. Please see the below for warnings and limitations of the code.
 
-To use: modify relevant sections in the 'User Input Section' cell, and then run rest of the cells.
+To use: modify relevant sections in the 'User Input Section' cell, and then run rest of the cells. Regions marked "Switches" can be set in any way the user desires. Regions marked "Select one" means to just turn one of the options on at a time. The main solver with default settings takes $\sim 20$s to run.
 
-Plotting code can be used as is, or by modifying switches present in those cells. T_M and X_e compare against pre-tabulated (vanilla LCDM) solutions from CosmoRec.
+The plotting code can be used as is, or by modifying switches present in those cells. T_M and X_e compare against pre-tabulated (vanilla LCDM) solutions from CosmoRec.
 
 The cosmos.py contains details of most of the function calls used by the solver.
 
