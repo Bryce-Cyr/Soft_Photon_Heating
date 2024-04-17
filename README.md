@@ -13,4 +13,4 @@ The cosmos.py contains details of most of the function calls used by the solver.
 Contains various fundamental parameters and constants, as well as commonly used functions which are called extensively by Soft-Photon-Heating.ipynb. The code operates using natural units, and the natural unit associated with each object in this file are labelled using square [] brackets. 
 
 ## CosmoRec.Sol.dat
-Contains highly accurate data on the matter temperature and ionization fraction in the case of no soft photon injections, at redshifts 100 < z < 8500. The data is computed using CosmoRec (Chluba and Thomas, 2011 (https://inspirehep.net/literature/873187)), and is used in the Jupyter notebook for comparing the soft photon solutions against the vanilla LCDM evolution of T_M and X_e.
+Contains highly accurate data on the matter temperature and ionization fraction in the case of no soft photon injections, at redshifts 100 < z < 8500. The data is computed using CosmoRec ([Chluba and Thomas, 2011](https://inspirehep.net/literature/873187)), and is used in the Jupyter notebook for comparing the soft photon solutions against the vanilla LCDM evolution of T_M and X_e.
